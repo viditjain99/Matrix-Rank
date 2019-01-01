@@ -1,6 +1,4 @@
 #Vidit Jain
-#2017370
-#A2
 from fractions import Fraction
 def swapRows(A,row1,row2):
 	temprow=A[row1]
