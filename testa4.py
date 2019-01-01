@@ -1,6 +1,4 @@
 #Vidit Jain
-#2017370
-#A2
 import unittest
 from a4 import Row_Transformation
 from a4 import swapRows
